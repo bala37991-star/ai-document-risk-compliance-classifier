@@ -1,0 +1,40 @@
+text,risk_level
+"Public brochure with office address and general product information available on company website",Low
+"Approved marketing announcement for public event and registration",Low
+"Public FAQ explaining account setup and support contact methods",Low
+"General employee newsletter with holiday schedule and cafeteria updates",Low
+"Public product guide describing basic features and installation steps",Low
+"Published sustainability summary containing general environmental goals",Low
+"Public event agenda with speaker names session times and venue",Low
+"General training handout about workplace communication",Low
+"Public service overview with non-sensitive support channels",Low
+"Approved website copy explaining company history and mission",Low
+"Standard internal meeting agenda covering team updates and milestones",Medium
+"Internal procurement request for office supplies pending approval",Medium
+"Draft vendor agreement with standard terms awaiting legal review",Medium
+"Internal project plan with delivery milestones and department owners",Medium
+"Employee onboarding checklist containing procedures and internal contacts",Medium
+"Internal expense report requiring finance verification",Medium
+"Routine access request for shared team folder pending approval",Medium
+"Internal quality review identifying minor process gaps",Medium
+"Customer service escalation summary requiring supervisor follow up",Medium
+"Draft policy update awaiting stakeholder comments",Medium
+"Confidential payroll file includes employee salary bank details and personal identifiers",High
+"Incident report describes unauthorized access to customer records",High
+"Legal notice alleges breach of contract and requests evidence preservation",High
+"Security assessment reveals exposed credentials and critical vulnerabilities",High
+"Medical accommodation file contains sensitive employee health information",High
+"Regulatory investigation response includes confidential evidence",High
+"Customer database export contains names addresses and payment identifiers",High
+"Whistleblower complaint alleges fraud and falsified financial statements",High
+"Data breach notification details affected users and compromised records",High
+"Confidential merger document includes nonpublic financial projections",High
+"Restricted audit finding identifies suspected money laundering",High
+"Contract termination letter cites material noncompliance and litigation exposure",High
+"Identity verification file includes passport number tax identifier and date of birth",High
+"Critical safety incident report documents serious injury and reporting duties",High
+"Privileged legal advice discusses litigation strategy and settlement",High
+"Internal investigation record contains bribery allegations and evidence",High
+"Production incident log includes API keys passwords and infrastructure details",High
+"Unreleased financial results disclose confidential revenue forecasts",High
+"Regulatory filing draft includes material compliance deficiencies",High

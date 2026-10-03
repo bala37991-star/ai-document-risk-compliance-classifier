@@ -1,0 +1,3 @@
+SYNTHETIC DEMONSTRATION ONLY
+
+This internal access-control review found that a shared account may have exposed customer records. Security staff should rotate credentials, preserve relevant logs, and report the incident to the privacy officer for assessment.
